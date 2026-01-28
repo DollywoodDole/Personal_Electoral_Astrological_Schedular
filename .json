@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "path": "frontend",
+      "name": "Frontend (React+Vite)"
+    },
+    {
+      "path": "backend",
+      "name": "Backend (Express+TypeScript)"
+    },
+    {
+      "path": ".",
+      "name": "Root"
+    }
+  ],
+  "settings": {
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
